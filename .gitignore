@@ -17,4 +17,6 @@
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode
 # System Files
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+.idea
