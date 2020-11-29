@@ -1,4 +1,5 @@
+`use strict`;
+
 function solution(n) {
-  const answer = "수박".repeat(n / 2) + (n % 2 ? "수" : "");
-  return answer;
+  return "수박".repeat(n / 2).concat(n % 2 ? "수" : "");
 }
