@@ -1,21 +1,16 @@
 function solution(n) {
-  let answer = -2;
   const primeNumber = new Array(n + 1);
-  primeNumber.fill(0);
+  primeNumber.fill(true);
 
   for (let i = 2; i <= n / 2; i++) {
-    if (primeNumber[i] === 0) {
+    if (primeNumber[i]) {
       for (let j = i + i; j <= n; j += i) {
-        primeNumber[j] = 1;
+        primeNumber[j] = false;
       }
     }
   }
 
-  primeNumber.forEach((number) => {
-    if (number === 0) answer++;
-  });
-
-  return answer;
+  return primeNumber.filter((value) => value).length - 2;
 }
 
-console.log(solution(22));
+console.log(solution(10));
