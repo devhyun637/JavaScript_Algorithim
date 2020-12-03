@@ -4,7 +4,11 @@
     "es2021": true,
     "node": true
   },
-  "extends": ["eslint:recommended", "airbnb-base", "prettier"],
+  "extends": [
+    "eslint:recommended",
+    "airbnb-base",
+    "prettier"
+  ],
   "parserOptions": {
     "ecmaVersion": 2015,
     "sourceType": "module"
@@ -12,8 +16,8 @@
   "rules": {
     "no-console": "off",
     "no-plusplus": "off",
-    "class-methods-use-this" : "off", // 이것은 확실하게 모르겠음,
+    "class-methods-use-this": "off", // 이것은 확실하게 모르겠음,
     "radix": "off",
-    "no-restricted-properties" : "off" // Math.pow error 때문에 추가
+    "no-restricted-properties": "off" // Math.pow error 때문에 추가
   }
 }
