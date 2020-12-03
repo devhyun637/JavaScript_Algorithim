@@ -1,8 +1,6 @@
-"use strict";
-
-//같은 숫자는 싫어
+// 같은 숫자는 싫어
 const answer1 = (arr) => {
-  let answer = [];
+  const answer = [];
   answer.push(arr[0]);
 
   for (let i = 1; i < arr.length; i++) {

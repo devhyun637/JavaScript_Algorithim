@@ -1,5 +1,3 @@
-`use strict`;
-
 function solution(n) {
   let answer = -2;
   const primeNumber = new Array(n + 1);
@@ -13,9 +11,11 @@ function solution(n) {
     }
   }
 
-  primeNumber.forEach(number => {
+  primeNumber.forEach((number) => {
     if (number === 0) answer++;
   });
 
   return answer;
 }
+
+console.log(solution(22));
