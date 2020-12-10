@@ -32,8 +32,8 @@
 |    문제27    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/beginner/problem27.js) | 2020-12-04 | 객체 | 제주베이스코딩 |
 |    문제28    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/beginner/problem28.js) | 2020-12-04 |   | 제주베이스코딩 |
 |    문제35    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem35.js) | 2020-12-06 | 팩토리 함수 | 제주베이스코딩 |
-|    문제37    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem37.js) | 2020-12-06 | 객체 | 제주베이스코딩 |
-|    문제38    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem38.js) | 2020-12-06 | 배열 | 제주베이스코딩 |
+|    문제37    | [📎 블로그 저장소](https://dev-hyun.tistory.com/153) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem37.js) | 2020-12-06 | 객체 | 제주베이스코딩 |
+|    문제38    | [📎 블로그 저장소](https://dev-hyun.tistory.com/154) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem38.js) | 2020-12-06 | 배열 | 제주베이스코딩 |
 |    문제39    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem39.js) | 2020-12-06 | 문자열 | 제주베이스코딩 |
 |    문제41    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem41.js) | 2020-12-10 | | 제주베이스코딩 |
 |    문제42    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem42.js) | 2020-12-10 | | 제주베이스코딩 |
@@ -43,3 +43,7 @@
 
 ### Codewors
 ✔️ [Codewars](https://www.codewars.com) <br>
+
+|           제목            | 풀이                                                 |                                                      소스코드                                                      |    날짜    | 분류 |     출처     |
+| :-----------------------: | :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------: | :--------: | :--: | :----------: |
+| Alternate capitalization | [📎 블로그 저장소](https://dev-hyun.tistory.com/155) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/alternateCapitalization.js) | 2020-12-11 | 문자열 | Codewors |
