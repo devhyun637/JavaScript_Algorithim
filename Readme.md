@@ -1,7 +1,9 @@
 ## 알고리즘 문제풀기
 - 알고리즘 문제를 JS로 풀고 이에 대한 코드를 저장한 저장소입니다.
 
-#### 프로그래머스
+---
+
+### 프로그래머스
 ✔️ [프로그래머스 코딩테스트 연습](https://programmers.co.kr/learn/challenges) <br>
 
 |           제목            | 풀이                                                 |                                                      소스코드                                                      |    날짜    | 분류 |     출처     |
@@ -13,7 +15,9 @@
 |   수박수박수박..          | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/programmers/level1/sol12922.js) | 2020-11-15 |      | 프로그래머스 |
 |      같은 숫자는 싫어    | [📎 블로그 저장소](https://dev-hyun.tistory.com/150) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/programmers/level1/sol12906.js) | 2020-11-30 |   | 프로그래머스 |
 
-#### 제주베이스코딩 JS 100제
+<br>
+
+### 제주베이스코딩 JS 100제
 ✔️ [제주베이스코딩 JS 100제](https://www.notion.so/JS-100-94d97d294dd14c9b911a02c840fa9f2d) <br>
 
 |           제목            | 풀이                                                 |                                                      소스코드                                                      |    날짜    | 분류 |     출처     |
@@ -35,7 +39,7 @@
 |    문제42    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem42.js) | 2020-12-10 | | 제주베이스코딩 |
 |    문제50    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem50.js) | 2020-12-11 | 버블정렬 | 제주베이스코딩 |
 
+<br>
 
----
-#### Codewors
+### Codewors
 ✔️ [Codewars](https://www.codewars.com) <br>
