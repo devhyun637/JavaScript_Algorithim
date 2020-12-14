@@ -38,6 +38,11 @@
 |    문제41    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem41.js) | 2020-12-10 | | 제주베이스코딩 |
 |    문제42    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem42.js) | 2020-12-10 | | 제주베이스코딩 |
 |    문제50    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem50.js) | 2020-12-11 | 버블정렬 | 제주베이스코딩 |
+|    문제51    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem51.js) | 2020-12-12 | Merge sort | 제주베이스코딩 |
+|    문제52    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem52.js) | 2020-12-12 | Quick sort | 제주베이스코딩 |
+|    문제53    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem53.js) | 2020-12-12 | 문자열 | 제주베이스코딩 |
+|    문제54    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem54.js) | 2020-12-12 | 문자열 | 제주베이스코딩 |
+|    문제57    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem57.js) | 2020-12-12 | 문자열 | 제주베이스코딩 |
 
 <br>
 
