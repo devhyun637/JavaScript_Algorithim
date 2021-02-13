@@ -37,19 +37,27 @@
 |    문제39    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem39.js) | 2020-12-06 | 문자열 | 제주베이스코딩 |
 |    문제41    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem41.js) | 2020-12-10 | | 제주베이스코딩 |
 |    문제42    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem42.js) | 2020-12-10 | | 제주베이스코딩 |
+|    문제45    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem45.js) | 2021-01-29 | | 제주베이스코딩 |
 |    문제50    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem50.js) | 2020-12-11 | 버블정렬 | 제주베이스코딩 |
 |    문제51    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem51.js) | 2020-12-12 | Merge sort | 제주베이스코딩 |
 |    문제52    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem52.js) | 2020-12-12 | Quick sort | 제주베이스코딩 |
 |    문제53    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem53.js) | 2020-12-12 | 문자열 | 제주베이스코딩 |
 |    문제54    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem54.js) | 2020-12-12 | 문자열 | 제주베이스코딩 |
+|    문제56    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem56.js) | 2020-12-12 | Object, Array | 제주베이스코딩 |
 |    문제57    |  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codeFestival_js/intermediate/problem57.js) | 2020-12-12 | 문자열 | 제주베이스코딩 |
 
 <br>
 
-### Codewors
+### Codewars
 ✔️ [Codewars](https://www.codewars.com) <br>
 
 |           제목            | 풀이                                                 |                                                      소스코드                                                      |    날짜    | 분류 |     출처     |
 | :-----------------------: | :--------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------: | :--------: | :--: | :----------: |
-| Alternate capitalization | [📎 블로그 저장소](https://dev-hyun.tistory.com/155) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/alternateCapitalization.js) | 2020-12-11 | 문자열 | Codewors |
-| Find the next perfect square! | [📎 블로그 저장소](https://dev-hyun.tistory.com/158) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/findNextSquare.js) | 2020-12-20 | Number | Codewors |
+| Alternate capitalization | [📎 블로그 저장소](https://dev-hyun.tistory.com/155) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/alternateCapitalization.js) | 2020-12-11 | 문자열 | Codewars |
+| Find the next perfect square! | [📎 블로그 저장소](https://dev-hyun.tistory.com/158) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/findNextSquare.js) | 2020-12-20 | Number | Codewars |
+| Find the unique number | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/findNextSquare.js) | 2020-12-21 | Array | Codewars |
+| Regex validate PIN code | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/validatePIN.js) | 2020-12-23 | 정규식 | Codewars |
+| Sum of numbers from 0 to N | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/sequenceSum.js) | 2020-12-25 |  | Codewars |약
+| [Sort Numbers](https://www.codewars.com/kata/5174a4c0f2769dd8b1000003/train/javascript) | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/sortNumbers.js) | 2021-02-04 |  | Codewars |
+| [Count the divisors of a number](https://www.codewars.com/kata/542c0f198e077084c0000c2e) | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/getDivisorsCnt.js) | 2021-02-13 | 최대공수(반복문) | Codewars |
+| [Categorize New Member](https://www.codewars.com/kata/5502c9e7b3216ec63c0001aa) | [📎 블로그 저장소](https://dev-hyun.tistory.com/160)  | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/codewars/level7ky/openOrSenior.js) | 2021-02-13 | Array | Codewars |
