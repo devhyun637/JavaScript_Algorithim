@@ -1,3 +1,9 @@
+/*
+  출력
+  545 210 10
+  파이어볼
+*/
+
 class Wizard {
   constructor(health, mana, armor) {
     this.health = health;
