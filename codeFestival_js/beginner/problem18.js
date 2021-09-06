@@ -1,10 +1,10 @@
 const answer = (string) => {
-  return (
-    string
-      .split(' ')
-      .map(Number)
-      .reduce((value, sum) => value + sum, 0) / 3
-  );
+  const sum = string
+    .split(' ')
+    .map(Number)
+    .reduce((sum, score) => (sum += score), 0);
+
+  return Math.floor(sum / 3);
 };
 
-console.log(answer('20 30 40'));
+console.log(answer('22 32 42'));
