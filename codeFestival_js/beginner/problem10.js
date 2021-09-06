@@ -1,16 +1,18 @@
-// 별찍기
-
-const makeTree = (height) => {
-  for (let i = 1; i <= height; i++) {
-    let tree = '';
-    for (let j = 1; j <= height - i; j++) {
-      tree = tree.concat(' ');
-    }
-    for (let j = 1; j < i * 2; j++) {
-      tree = tree.concat('*');
-    }
-    console.log(tree);
-  }
+const makeTree1 = (height) => {
+  return Array.from({ length: height }).reduce((answer, _, index) => {
+    answer +=
+      ' '.repeat(height - (index + 1)) + '*'.repeat(index * 2 + 1) + '\n';
+    return answer;
+  }, '');
 };
 
-makeTree(5);
+const makeTree2 = (height) => {
+  let answer = '';
+  for (let i = 0; i < height; i++) {
+    answer += ' '.repeat(height - (i + 1)) + '*'.repeat(i * 2 + 1) + '\n';
+  }
+  return answer;
+};
+
+console.log(makeTree1(5));
+console.log(makeTree2(5));
