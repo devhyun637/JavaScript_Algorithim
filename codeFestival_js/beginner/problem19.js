@@ -1,5 +1,6 @@
 const squareNum = (string) => {
-  return Math.pow(parseInt(string.split(' ')[0]), parseInt(string.split(' ')[1]));
+  const [num1, num2] = string.split(' ');
+  return Math.pow(parseInt(num1), parseInt(num2));
 };
 
 console.log(squareNum('2 5'));
