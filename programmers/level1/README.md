@@ -8,3 +8,4 @@
 |         소수찾기          | [📎 블로그 저장소](https://dev-hyun.tistory.com/145) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/programmers/level1/sol12921.js) | 2020-11-14 |      | 프로그래머스 |
 |   수박수박수박..          | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/programmers/level1/sol12922.js) | 2020-11-15 |      | 프로그래머스 |
 |      같은 숫자는 싫어    | [📎 블로그 저장소](https://dev-hyun.tistory.com/150) | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/programmers/level1/sol12906.js) | 2020-11-30 |   | 프로그래머스 |
+| 로또의 최고 순위와 최저 순위 | | [📎 github 저장소 ](https://github.com/devhyun637/Algorithm_JavaScript/blob/master/programmers/level1/sol77484.js) | 2021-09-18 |      | [프로그래머스](https://programmers.co.kr/learn/courses/30/lessons/77484) |
